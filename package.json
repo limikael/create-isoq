@@ -1,0 +1,12 @@
+{
+  "name": "create-isoq",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "create-isoq": "create-isoq.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
